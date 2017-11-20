@@ -18,15 +18,15 @@ Quickstart:
 
 Effect Params:
 -----------
-* BloomThreshold - Fetch out pixels higher than this level of brightness.
-* BloomRadius - Controls the size of veiling effects in percent of the screen width.
-* BloomColorAllHSV - Scales the brightness and color of the whole bloom effect (linear color-space with HSV color)
-* Bloom1st~5st HSV - Modifies the brightness and color of the bloom in the each layer, if you need a larger bloom, use higher layer instead
-* DirtColorHSV - Scales the brightness and color of the whole dirt map
+* `BloomThreshold` - Fetch out pixels higher than this level of brightness.
+* `BloomRadius` - Controls the size of veiling effects in percent of the screen width.
+* `BloomColorAllHSV` - Scales the brightness and color of the whole bloom effect (linear color-space with HSV color)
+* `Bloom1st~5st HSV` - Modifies the brightness and color of the bloom in the each layer, if you need a larger bloom, use higher layer instead
+* `DirtColorHSV` - Scales the brightness and color of the whole dirt map
 
 Dirt Mask:
 -----------
-Dirt Mask is a effect to create a camera imperfections (Left: only bloom, right: Bloom with Dirt Mask) and give more impressive HDR effect. You can see UE4 ([docs](https://docs.unrealengine.com/latest/INT/Engine/Rendering/PostProcessEffects/Bloom/index.html)) For more information
+`Dirt Mask` is a effect to create a camera imperfections (Left: only bloom, right: Bloom with Dirt Mask) and give more impressive HDR effect. You can see UE4 ([docs](https://docs.unrealengine.com/latest/INT/Engine/Rendering/PostProcessEffects/Bloom/index.html)) for more information
 
 [![link text](./Screenhots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/1.jpg)
 [![link text](./Screenhots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/2.jpg)
