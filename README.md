@@ -30,6 +30,8 @@ Dirt Mask:
 
 [![link text](./Screenhots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/1.jpg)
 [![link text](./Screenhots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/2.jpg)
+[![link text](./Screenhots/3_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/3.jpg)
+[![link text](./Screenhots/4_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/4.jpg)
 
 Contact :
 ------------
