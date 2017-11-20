@@ -1,4 +1,4 @@
-#define DIRT_MASK_MAP_ENABLE 0
+#define DIRT_MASK_MAP_ENABLE 1
 #define DIRT_MASK_MAP_FILE "Textures/DirtMaskTextureExample.png"
 
 // R = default

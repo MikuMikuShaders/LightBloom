@@ -8,7 +8,7 @@ Requirements:
 * MikuMikuEffect (Only tested on 037 version x64)
 * Direct3D 9 With Shader Model 3.0 (ps_3_0)
 
-Install:
+Quickstart:
 -----------
 * Download a zip archive from the github page.
 * Un-zip the archive.
@@ -19,8 +19,13 @@ Effect Params:
 -----------
 * BloomThreshold - Fetch out pixels higher than this level of brightness.
 * BloomRadius - Controls the size of veiling effects in percent of the screen width.
-* BloomColorAllHSV - Scales the color of the whole bloom effect (linear color-space with HSV color)
-* Bloom1st~5st HSV - Modifies the brightness and color of the bloom in the each layer, if you need a larger bloom, use high layer instead
+* BloomColorAllHSV - Scales the brightness and color of the whole bloom effect (linear color-space with HSV color)
+* Bloom1st~5st HSV - Modifies the brightness and color of the bloom in the each layer, if you need a larger bloom, use higher layer instead
+* DirtColorHSV - Scales the brightness and color of the whole dirt map
+
+Dirt:
+[![link text](./Screenhots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/1.jpg)
+[![link text](./Screenhots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/2.jpg)
 
 [License (MIT)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/LICENSE.txt)
 -------------------------------------------------------------------------------
