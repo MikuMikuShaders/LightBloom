@@ -15,7 +15,8 @@ Install:
 * Put the the `LightBloom.x` and `LightBloomController.pmx` to the MMD window.
 * Drag the `BloomThreshold` to 0.5 in the morph panel
 
-Effect Attributes:
+Effect Params:
+-----------
 * BloomThreshold - Fetch out pixels higher than this level of brightness.
 * BloomRadius - Controls the size of veiling effects in percent of the screen width.
 * BloomColorAllHSV - Scales the color of the whole bloom effect (linear color-space with HSV color)
