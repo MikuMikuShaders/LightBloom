@@ -24,12 +24,17 @@ Effect Params:
 * Bloom1st~5st HSV - Modifies the brightness and color of the bloom in the each layer, if you need a larger bloom, use higher layer instead
 * DirtColorHSV - Scales the brightness and color of the whole dirt map
 
-Dirt:
+Dirt Mask:
 -----------
 Dirt Mask is a effect to create a camera imperfections (Left: only bloom, right: Bloom with Dirt Mask) and give more impressive HDR effect. You can see UE4 ([docs](https://docs.unrealengine.com/latest/INT/Engine/Rendering/PostProcessEffects/Bloom/index.html)) For more information
 
 [![link text](./Screenhots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/1.jpg)
 [![link text](./Screenhots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenhots/2.jpg)
+
+Contact :
+------------
+
+* Reach me via Twitter: [@Rui](https://twitter.com/Rui_cg).
 
 [License (MIT)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/LICENSE.txt)
 -------------------------------------------------------------------------------
