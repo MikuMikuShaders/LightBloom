@@ -12,7 +12,7 @@ Quickstart:
 -----------
 * Download a zip archive from the github page.
 * Un-zip the archive.
-* Put the the `LightBloom.x` or `LightBloom with DirtMap.x` to the MMD window.
+* Put the `LightBloom.x` or `LightBloom with DirtMap.x` to the MMD window.
 * Put `LightBloomController.pmx` to the MMD window.
 * Drag the `BloomThreshold` to 0.5 in the morph panel
 
