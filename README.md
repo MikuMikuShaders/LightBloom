@@ -2,6 +2,15 @@ LightBloom
 ========
 Bloom is an image effect for MikuMikuDance, it can help to hint the relative brightness of objects or add beauty and atmospheric.
 
+Dirt Mask:
+-----------
+`Dirt Mask` is a effect to create a camera imperfections (Left: only bloom, right: Bloom with Dirt Mask) and give more impressive HDR effect. You can see UE4 ([docs](https://docs.unrealengine.com/latest/INT/Engine/Rendering/PostProcessEffects/Bloom/index.html)) for more information
+
+[![link text](./Screenshots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/1.jpg)
+[![link text](./Screenshots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/2.jpg)
+[![link text](./Screenshots/3_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/3.jpg)
+[![link text](./Screenshots/4_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/4.jpg)
+
 Requirements:
 -----------
 * MikuMikuDance (Only tested on 926 version x64)
@@ -23,15 +32,6 @@ Effect Params:
 * `BloomColorAllHSV` - Scales the brightness and color of the whole bloom effect (linear color-space with HSV color)
 * `Bloom1st~5st HSV` - Modifies the brightness and color of the bloom in the each layer, if you need a larger bloom, use higher layer instead
 * `DirtColorHSV` - Scales the brightness and color of the whole dirt map
-
-Dirt Mask:
------------
-`Dirt Mask` is a effect to create a camera imperfections (Left: only bloom, right: Bloom with Dirt Mask) and give more impressive HDR effect. You can see UE4 ([docs](https://docs.unrealengine.com/latest/INT/Engine/Rendering/PostProcessEffects/Bloom/index.html)) for more information
-
-[![link text](./Screenshots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/1.jpg)
-[![link text](./Screenshots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/2.jpg)
-[![link text](./Screenshots/3_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/3.jpg)
-[![link text](./Screenshots/4_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/4.jpg)
 
 Contact :
 ------------
