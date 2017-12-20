@@ -1,5 +1,6 @@
 LightBloom
 ========
+###### 　　[English](https://github.com/MikuMikuShaders/LightBloom/blob/master/README.md) &nbsp; [中文文档](https://github.com/MikuMikuShaders/LightBloom/blob/master/README_chs.md)
 Bloom is an image effect for MikuMikuDance, it can help to hint the relative brightness of objects or add beauty and atmospheric. You can see this [paper](http://kalogirou.net/2006/05/20/how-to-do-good-bloom-for-hdr-rendering/) for more information
 
 Dirt Mask:
