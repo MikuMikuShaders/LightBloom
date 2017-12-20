@@ -1,11 +1,11 @@
 泛光
 ========
 ###### 　　[English](https://github.com/MikuMikuShaders/LightBloom/blob/master/README.md) &nbsp; [中文文档](https://github.com/MikuMikuShaders/LightBloom/blob/master/README_chs.md)
-泛光是一个为了mikumikudance编写的图像特效, 对过亮的像素执行模糊来添加更多的真实性.
+　　泛光是一个为了mikumikudance编写的图像特效, 对过亮的像素执行模糊来添加更多的真实性.
 
 蒙板:
 -----------
-`蒙板` 可以用于创建相机残缺来体现镜头的不完美，来给与更多的真实性 (左边: 只有泛光, 右边: 泛光和蒙板的叠加). 为了更多的了解你可以看UE的([文档](https://docs.unrealengine.com/latest/CHN/Engine/Rendering/PostProcessEffects/Bloom/index.html))
+`蒙板` 用于创建相机残缺来体现镜头的不完美，来给与更多的真实性 (`左边`: 只有泛光, `右边`: 泛光和蒙板的叠加). 更多的了解你可以看UE的([文档](https://docs.unrealengine.com/latest/CHN/Engine/Rendering/PostProcessEffects/Bloom/index.html))
 
 [![link text](./Screenshots/1_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/1.jpg)
 [![link text](./Screenshots/2_small.jpg)](https://raw.githubusercontent.com/MikuMikuShaders/LightBloom/master/Screenshots/2.jpg)
